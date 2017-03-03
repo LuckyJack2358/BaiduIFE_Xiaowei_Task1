@@ -1,0 +1,17 @@
+table,th,td{
+	border:1px solid gray;
+	padding:10px 20px 10px 10px;
+}
+table{
+	border-collapse:collapse;
+	
+}
+.align{
+	text-align: center;
+}
+fieldset{
+	width: 200px;
+}
+#footer{
+	text-align: center;
+}
